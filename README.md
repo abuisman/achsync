@@ -8,4 +8,4 @@ Achsync is configured through environment variables:
 
 **FROM_URL**: The postgres url that you will sync from. Example: `postgres://user:password@host.example.com/database_name`
 **TO_URL**: The postgres url that you will sync to. Example: `postgres://user:password@host.example.com/database_name`
-**
+**TABLE**: The table you want tot sync
