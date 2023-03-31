@@ -1,10 +1,10 @@
 # Achsync
 
-Modestly named after myself. A docker image to one-way sync a table from one postgres database to the other.
+Behold, dear reader, a humble offering named after yours truly - a wondrous docker image that allows for one-way synchronization of a table between two postgres databases.
 
-A very simple alternative to Meltano and Airbyte to sync one posgres database to another.
+This magnificent creation provides a refreshingly simple alternative to the likes of Meltano and Airbyte, as it seamlessly synchronizes data with ease and efficiency.
 
-I host this docker image on Render.com in the form of a "cron job".
+As for its whereabouts, you can find this marvelously crafted docker image hosted on the exquisite Render.com, where it is lovingly tended to as a "cron job". So why wait? Come and partake in this exquisite synchronization experience today!
 
 # Usage
 
